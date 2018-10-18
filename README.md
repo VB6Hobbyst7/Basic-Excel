@@ -1,7 +1,7 @@
 # Basic-Excel
 Excel basic from EcelIsFun channel Youtube
 Count
-Sum, SUMIFS
+Sum, SUMIFS/n
 Shortcut Keyboard
 IF and IS functions
 Lookup Function
